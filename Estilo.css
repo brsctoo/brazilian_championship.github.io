@@ -1,0 +1,56 @@
+#FW
+{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1000;
+}
+
+h1, p
+{
+    text-align: center;
+}
+
+/*h2 == Texto*/
+h2, p
+{
+    text-align: center;
+}
+
+h3, p
+{
+    text-align: center;
+}
+
+
+.content
+{
+    top: 0;
+    background:  rgba(78, 78, 78, 0.5);
+    color: black;
+    width: 100%;
+    padding-top: 15.9px;
+    padding-bottom: 15.9px;
+}
+
+.content_botao
+{
+    top: 0;
+    background:  rgba(78, 78, 78, 0.5);
+    color: black;
+    width: 50%;
+    padding-top: 15.9px;
+    padding-bottom: 15.9px;
+}
+
+.content_botao
+{
+    top: 0;
+    background:  rgba(78, 78, 78, 0.5);
+    color: black;
+    width: 50%;
+    padding-top: 15.9px;
+    padding-bottom: 15.9px;
+}
